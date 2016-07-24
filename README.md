@@ -1,2 +1,4 @@
 # hello-world
-new ideas, etc
+my repository for new ideas, etc
+
+
